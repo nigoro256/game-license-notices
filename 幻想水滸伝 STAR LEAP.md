@@ -2,12 +2,13 @@
 
 https://www.konami.com/games/suikoden/star_leap/jp/ja/
 
-2026-11-07  
-`iOS`
+| Date | Platform |
+|-|-|
+| 2026-11-07 | iOS |
+
 
 - CRIWARE
-
----
+<!-- END LIST -->
 
 - Adjust
 - Apple.Core
